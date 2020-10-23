@@ -1,0 +1,11 @@
+C:\Users\Luciano\source\repos\Multiplicacao\Multiplicacao\bin\Debug\netcoreapp3.0\Multiplicacao.exe
+C:\Users\Luciano\source\repos\Multiplicacao\Multiplicacao\bin\Debug\netcoreapp3.0\Multiplicacao.deps.json
+C:\Users\Luciano\source\repos\Multiplicacao\Multiplicacao\bin\Debug\netcoreapp3.0\Multiplicacao.runtimeconfig.json
+C:\Users\Luciano\source\repos\Multiplicacao\Multiplicacao\bin\Debug\netcoreapp3.0\Multiplicacao.runtimeconfig.dev.json
+C:\Users\Luciano\source\repos\Multiplicacao\Multiplicacao\bin\Debug\netcoreapp3.0\Multiplicacao.dll
+C:\Users\Luciano\source\repos\Multiplicacao\Multiplicacao\bin\Debug\netcoreapp3.0\Multiplicacao.pdb
+C:\Users\Luciano\source\repos\Multiplicacao\Multiplicacao\obj\Debug\netcoreapp3.0\Multiplicacao.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\Multiplicacao\Multiplicacao\obj\Debug\netcoreapp3.0\Multiplicacao.AssemblyInfoInputs.cache
+C:\Users\Luciano\source\repos\Multiplicacao\Multiplicacao\obj\Debug\netcoreapp3.0\Multiplicacao.AssemblyInfo.cs
+C:\Users\Luciano\source\repos\Multiplicacao\Multiplicacao\obj\Debug\netcoreapp3.0\Multiplicacao.dll
+C:\Users\Luciano\source\repos\Multiplicacao\Multiplicacao\obj\Debug\netcoreapp3.0\Multiplicacao.pdb
